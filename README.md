@@ -77,3 +77,8 @@ The word reporting is used to denote that this table manager creates and populat
 Similar to a raw table manager, a reporting table manager uses a Kafka topic as an input.  In the case of a raw table manager, it uses a Kafka topic that is populated by and AWS DMS task, while for a reporting table manager, it uses a Kafka topic that is populated by a DMS emulator.
 
 Since a DMS emulators mimics an AWS DMS task and populates a Kafka topic with messages with a similar format used by an AWS DMS task, the approach used by a reporting table manager is very similar to a raw table manager.
+
+About James Buhion
+James Buhion is a Christian IT Specialist.
+James Buhion's activity are: reads and studies the Bible.
+James Buhion works in ISD.
